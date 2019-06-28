@@ -1,0 +1,4 @@
+#itbf
+International Trade Brokers & Forwarders is a company with over 20 years of experience in International Trade and expertise in US Customs regulations.
+As a cargo agent & broker located in Miami, FL, ITBF is member of a network of brokers under the C-TPAT (Customs-Trade Partnership Against Terrorism), certified by US Customs to act as an intermediate between importers, exporters and U.S. Customs & Border Protection.
+Our team of experts has been trained to offer reliable and high quality services complying with Customs regulations and rules under trade- regulating agencies such as the FDA, FCC, DOT, Fish & Wildlife, among others.
