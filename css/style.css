@@ -1,0 +1,46 @@
+/*!
+
+ */
+
+body {
+  padding-top: 10px;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/home_1.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/home_2.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/home_3.jpg');
+  background-size: cover;
+}
+
+.carousel-image-4 {
+  background: url('../img/home_4.jpg');
+  background-size: cover;
+}
+
+.carousel-image-5 {
+  background: url('../img/home_5.jpg');
+  background-size: cover;
+}
+
+.carousel-image-6 {
+  background: url('../img/home_6.jpg');
+  background-size: cover;
+}
+
+.carousel-image-7 {
+  background: url('../img/home_7.jpg');
+  background-size: cover;
+}
